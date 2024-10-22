@@ -1,1 +1,1 @@
-THIS IS THE FILE IN BRANCH. This is stash testing. Hello this is devops practical one.
+THIS IS THE FILE IN BRANCH. This is stash testing.
